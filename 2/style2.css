@@ -61,8 +61,8 @@ body {
   /* Három egymás mellett – mind kb. 30%-os */
   .box6, .box7, .box8 {
     float: left;
-    width: 28%;
-    margin-right: 3%; /* kis távolság közöttük */
+    width: 27.5%;
+    margin-left: 3%; /* kis távolság közöttük */
     background-color: #1abc9c;
   }
   
